@@ -30,6 +30,8 @@
 
 Five Bet é um site de apostas completo! Como visitante você pode visualizar jogos acontecendo em tempo real, após criar sua conta você terá um dashboard para realizar apostas, efetuar saques ou depósitos, alteração de senha ou foto de perfil e também pode consultar históricos de transações, apostas e afiliados. O projeto está com dados fictícios pois a API paga tem um limite pequeno de requisições, mas está todo desenvolvido para receber uma chave de API e obter dados em tempo real, como a adição de novos esportes para apostas.
 
+Vale destacar que este projeto utiliza além da API de jogos em tempo real, uma segunda API que armazena todos os dados dos usuários (Cadastros, Apostas, Históricos...), esta segunda API foi desenvolvida do zero. Tornando-se assim um projeto que foi feito além do front, também seu back-end.
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias/bibliotecas:
