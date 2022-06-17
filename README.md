@@ -28,7 +28,7 @@
 
 ## ✨ Projeto
 
-Five Bet
+Five Bet é um site de apostas completo! Como visitante você pode visualizar jogos acontecendo em tempo real, após criar sua conta você terá um dashboard para realizar apostas, efetuar saques ou depósitos, alteração de senha ou foto de perfil e também pode consultar históricos de transações, apostas e afiliados. O projeto está com dados fictícios pois a API paga tem um limite pequeno de requisições, mas está todo desenvolvido para receber uma chave de API e obter dados em tempo real, como a adição de novos esportes para apostas.
 
 ## 🚀 Tecnologias
 
@@ -38,25 +38,36 @@ Esse projeto foi desenvolvido com as seguintes tecnologias/bibliotecas:
  <tr>
 <td> HTML5</td>
 <td> CSS3</td>
-<td> TypeScript</td>
-<td> Java</td>
+<td> JavaScript</td>
+<td> MaterialUI</td>
 <td> React</td>
     </tr>
   <tr>
-<td> Continuous Delivery</td>
-<td> Spring Security</td>
-<td> Springboot</td>
-<td> Spring JPA</td>
-<td> PostgreSQL</td>
+<td> Axios</td>
+<td> Framer Motion</td>
+<td> Phosphor Icons</td>
+<td> Yup</td>
+<td> React Hook Form</td>
+ </tr>
+  
+  <tr>
+<td> React Timestamp</td>
+<td> React Toastify</td>
+<td> Referral Codes</td>
+<td> React Router Dom</td>
+<td> Styled Components</td>
  </tr>
 </table>
 
 ## 🌟 Features
 
 -   [ ] 100% responsivo em resoluções até 4k.
--   [ ] Exportação dos filtros para SVG, PNG ou CSV.
--   [ ] Gráficos em barras e em pizza para melhor visualização.
--   [ ] Paginação para suportar alto volume de dados.
+-   [ ] Páginas de Contato, Termos de Serviço e Política de Privacidade.
+-   [ ] Estatísticas dinâmicas em todo o site.
+-   [ ] Cadastro e Login com validações e código de afiliado.
+-   [ ] Sistema de Afiliado completo oferecendo recompensas e histórico.
+-   [ ] Dashboard com sistema de alterar senha ou adicionar foto por upload, depósito e saque e também histórico de transações, apostas e afiliações.
+-   [ ] Complexo sistema de apostas que detecta o encerramento dos jogos e compara apostas para pagar os possíveis vencedores, os multiplicadores de apostas são variantes de como está ocorrendo a partida.
 
 ## 🎨 Layout
 
