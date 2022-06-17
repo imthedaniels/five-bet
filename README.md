@@ -16,10 +16,10 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/website?down_message=offline&logo=vercel&style=for-the-badge&up_message=online&url=https%3A%2F%2Fcapstone-group2-alex-eight.vercel.app%2F&labelColor=aeaeae&logoColor=black" alt="Server Status">
-  <img src="https://img.shields.io/github/last-commit/imthedaniel/five-bets?style=for-the-badge&color=ff8429&labelColor=aeaeae" alt="Languages">
-  <img src="https://img.shields.io/github/languages/count/imthedaniel/five-bets?style=for-the-badge&color=ff8429&labelColor=aeaeae" alt="Languages">
-  <img src="https://img.shields.io/github/license/imthedaniel/five-bets?style=for-the-badge&labelColor=aeaeae&color=ff8429" alt="Licenses" />
+  <img src="https://img.shields.io/website?down_message=offline&logo=vercel&style=for-the-badge&up_message=online&url=https%3A%2F%2Fcapstone-group2-alex-eight.vercel.app%2F&labelColor=3d1b8c&logoColor=black" alt="Server Status">
+  <img src="https://img.shields.io/github/last-commit/imthedaniel/five-bets?style=for-the-badge&color=a47dfd&labelColor=3d1b8c" alt="Languages">
+  <img src="https://img.shields.io/github/languages/count/imthedaniel/five-bets?style=for-the-badge&color=a47dfd&labelColor=3d1b8c" alt="Languages">
+  <img src="https://img.shields.io/github/license/imthedaniel/five-bets?style=for-the-badge&labelColor=3d1b8c&color=a47dfd" alt="Licenses" />
 </p>
 
 <p align="center">
@@ -40,34 +40,36 @@ Esse projeto foi desenvolvido com as seguintes tecnologias/bibliotecas:
 <td> CSS3</td>
 <td> JavaScript</td>
 <td> MaterialUI</td>
-<td> React</td>
+   <td> Referral Codes</td>
+
     </tr>
   <tr>
 <td> Axios</td>
 <td> Framer Motion</td>
 <td> Phosphor Icons</td>
 <td> Yup</td>
-<td> React Hook Form</td>
+<td> Styled Components</td>
  </tr>
-  
   <tr>
+<td> React</td>
 <td> React Timestamp</td>
 <td> React Toastify</td>
-<td> Referral Codes</td>
 <td> React Router Dom</td>
-<td> Styled Components</td>
+<td> React Hook Form</td>
+
  </tr>
 </table>
 
 ## 🌟 Features
 
 -   [ ] 100% responsivo em resoluções até 4k.
--   [ ] Páginas de Contato, Termos de Serviço e Política de Privacidade.
+-   [ ] Página de contato com formulário de mensagens.
 -   [ ] Estatísticas dinâmicas em todo o site.
 -   [ ] Cadastro e Login com validações e código de afiliado.
 -   [ ] Sistema de Afiliado completo oferecendo recompensas e histórico.
--   [ ] Dashboard com sistema de alterar senha ou adicionar foto por upload, depósito e saque e também histórico de transações, apostas e afiliações.
--   [ ] Complexo sistema de apostas que detecta o encerramento dos jogos e compara apostas para pagar os possíveis vencedores, os multiplicadores de apostas são variantes de como está ocorrendo a partida.
+-   [ ] Histórico de transações, afiliações e apostas.
+-   [ ] Alteração de Senha ou Foto de Perfil
+-   [ ] Sistema complexo de apostas (Automaticamente os jogos encerrados disparam um evento que detecta os possíveis ganhadores, para que eles recebam suas recompensas ou não. Após isso efetua o preenchimento de todo histórico e estatísticas no site).
 
 ## 🎨 Layout
 
