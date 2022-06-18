@@ -42,9 +42,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias/bibliotecas:
 <td> CSS3</td>
 <td> JavaScript</td>
 <td> MaterialUI</td>
-   <td> Referral Codes</td>
-
-    </tr>
+<td> Referral Codes</td>
+ </tr>
   <tr>
 <td> Axios</td>
 <td> Framer Motion</td>
@@ -58,7 +57,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias/bibliotecas:
 <td> React Toastify</td>
 <td> React Router Dom</td>
 <td> React Hook Form</td>
-
  </tr>
 </table>
 
